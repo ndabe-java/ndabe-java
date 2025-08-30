@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]  
+# 👋 Hi, I’m Ndabenhle Ngema
 
 🎓 Grade 11 learner from South Africa | 💻 Aspiring **Data Engineer**  
 🚀 Exploring databases, cloud, and automation | 🌱 Lifelong learner  
@@ -42,9 +42,10 @@
 
 ---
 
-## 📫 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+## 📫 Let’s Connect! 
+<p align="left">
+<a href="https://linkedin.com/in/ndabenhle ngema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndabenhle ngema" height="30" width="40" /></a>
+</p>  
 
 ---
 
