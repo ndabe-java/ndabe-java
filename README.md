@@ -40,10 +40,10 @@
 
 ## 📫 Let’s Connect! 
 <p align="left">
-<a href="https://linkedin.com/in/ndabenhle ngema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndabenhle ngema" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ndabenhle-ngema-695991372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndabenhle ngema" height="30" width="40" /></a>
 </p>  
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/ndabe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ndabe" /></a></p><br><br>
+<p><a href="buymeacoffee.com/ndabe"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/ndabe" /></a></p><br><br>
 ---
 
 ✨ *“Data is the new oil, and I want to be the engineer who refines it."*
