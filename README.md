@@ -1,3 +1,57 @@
+# 👋 Hi, I’m [Your Name]  
+
+🎓 Grade 11 learner from South Africa | 💻 Aspiring **Data Engineer**  
+🚀 Exploring databases, cloud, and automation | 🌱 Lifelong learner  
+
+---
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📜 Certifications  
+- ✅ Google Cybersecurity Professional Certificate  
+- ✅ Microsoft DP-900: Azure Data Fundamentals  
+- ✅ Meta Database Engineering Professional Certificate *(in progress)*  
+
+---
+
+## 📂 Featured Projects  
+*(Adding more soon — this section will grow!)*  
+- **Database Design & Queries** – created relational databases and queries during the Meta certificate  
+- **Python Practice Scripts** – simple automation and data manipulation exercises  
+
+---
+
+## 📊 GitHub Stats  
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndabe-java&show_icons=true&locale=en)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ndabe-java&show_icons=true&locale=en&layout=compact)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced SQL optimization & database performance  
+- Docker & containerization for databases  
+- Cloud-based data engineering (Azure, AWS basics)  
+
+---
+
+## 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)  
+
+---
+
+✨ *“Data is the new oil, and I want to be the engineer who refines it.”*  
+
+
+
 <h1 align="center">Hi 👋, I'm Ndabenhle</h1>
 <h3 align="center">An aspiring Data Engineer from South Africa🇿🇦</h3>
 
