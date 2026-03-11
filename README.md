@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ndabenhle Ngema
 
-🎓 Grade 11 learner from South Africa 🇿🇦 | 💻 Aspiring **Data Engineer**  
+🎓 Matric Student from South Africa 🇿🇦 | 💻 Aspiring **Java Data Engineer**  
 🚀 Exploring databases, cloud, and automation | 🌱 Lifelong learner  
 
 ---
