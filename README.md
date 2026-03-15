@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ndabenhle Ngema
 
 🎓 Matric Student from South Africa 🇿🇦 | 💻 Aspiring **Java Data Engineer**  
-🚀 Exploring databases, cloud, and automation | 🌱 Lifelong learner  
+| 🌱 Green Coding Advocate 
 
 ---
 
@@ -19,8 +19,8 @@
 
 ## 📂 Featured Projects  
 *(Adding more soon — this section will grow!)*  
-- **Database Design & Queries** – created relational databases and queries during the Meta certificate  
-- **Python Practice Scripts** – simple automation and data manipulation exercises  
+- **Java Banking System** – This project simulates a basic banking system using Java.
+- **Java CSV DATA ANALYSER** – A beginner Java project that reads a CSV dataset and calculates salary statistics.  
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ## 🌱 Currently Learning  
-- Advanced SQL optimization & database performance  
+- Java for Data Engineering  
 - Docker & containerization for databases  
-- Cloud-based data engineering (Azure, AWS basics)  
+- Cloud-based data engineering 
 
 ---
 
