@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Ndabenhle Ngema
 
-**Aspiring ML Engineer | Focusing on Predictive Modeling & MLOps | 🌱 Green Coding Advocate **
+**Aspiring Data Engineer | python & sql | 🌱 Green Coding Advocate **
 
-I am a logic-driven builder transitioning from my National Senior Certificate directly into Machine Learning Engineering. My focus is on the "engine room" of AI—building efficient, scalable models to solve complex backend problems.
+I am a logic-driven builder transitioning from my National Senior Certificate directly into Data Engineering. My focus is on the "engine room" of AI—building efficient, scalable models to solve complex backend problems.
 
 ### 🛠 Technical Arsenal
 * **Languages:** Python, SQL, Java
 * **Data & ML:** Pandas, NumPy, Scikit-Learn (In Progress)
-* **Interests:** Natural Language Processing (NLP), Sustainable "Green" AI
+* **Interests:** Sustainable "Green" Engineering
 ---
 
 ## 🛠️ Tech Stack 
